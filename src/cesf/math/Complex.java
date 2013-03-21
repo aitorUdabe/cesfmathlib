@@ -6,7 +6,7 @@ package cesf.math;
  * 
  * En un  nombre complex hi han diferents parts:
  * la part imaginaria y la part real.
- * La pat imaginaria es b
+ * La part imaginaria es b y la part real es a.
  * @author Aitor
  *
  */
