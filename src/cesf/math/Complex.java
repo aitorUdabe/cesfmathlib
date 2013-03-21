@@ -1,5 +1,15 @@
 package cesf.math;
-
+/**
+ * La clase complex es una clase per disposar de nombres complexos.
+ * Els nombres complexos tenen una forma de a+bi, és a dir, 3+4i, on la i es l'arrel 
+ * quadrada de -1 i base dels nombres imaginaris.
+ * 
+ * En un  nombre complex hi han diferents parts:
+ * la part imaginaria y la part real.
+ * La pat imaginaria es b
+ * @author Aitor
+ *
+ */
 // Classe per disposar de nombres complexos
 // Els nombres complexos tenen la forma a+bi (ex. 3+4i),
 // on i és l'arrel quadrada de -1 i base dels nombres
