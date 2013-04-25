@@ -8,25 +8,26 @@ el projecte consta de tres clases matematiques:
 
 1. Fracció
 
-Aquesta clase ens permet realizar cualqsevol tipus d'operació matematica (suma,resta,divisio,multiplicacio,MCD...) entre fraccions i també entre fraccions i enters.
+    Aquesta clase ens permet realizar cualqsevol tipus d'operació matematica (suma,resta,divisio,multiplicacio,MCD...) entre fraccions i també entre fraccions i enters.
 
 2. complex
 
-Aquesta clase ens permet realizar cualqsevol tipus d'operació matematica (suma,resta,divisio,multiplicacio...) entre nombres complexos i també entre nombres complexos i enters.
+    Aquesta clase ens permet realizar cualqsevol tipus d'operació matematica (suma,resta,divisio,multiplicacio...) entre nombres complexos i també entre nombres complexos i enters.
 
-[Definició de nombre complex](https://ca.wikipedia.org/wiki/Nombre_complex)
+    [Definició de nombre complex](https://ca.wikipedia.org/wiki/Nombre_complex)
 
 3. matrius
 
-Aquesta clase ens permet realizar cualqsevol tipus d'operació matematica (suma,resta,divisio,multiplicacio,...) entre matrius.
+    Aquesta clase ens permet realizar cualqsevol tipus d'operació matematica (suma,resta,divisio,multiplicacio,...) entre matrius.
 Et permer resoldre matrius mitjançant el metode de Gauss.
 
-A l'hora de definir una matriu ho farem seguint el seguent format:
-`    public Matrix(int M, int N) {
-        this.M = M;
-        this.N = N;
-        data = new double[M][N];
-    }    `
+    A l'hora de definir una matriu ho farem seguint el seguent format:
+
+        public Matrix(int M, int N) {
+            this.M = M;
+            this.N = N;
+            data = new double[M][N];
+        }
 
 Exemples de matrius:
 
@@ -35,7 +36,7 @@ Exemples de matrius:
 | M1| X | Z |
 | M2| Y | J |
 
-**X**,**Y**,**Z**,**J** son nombres enters.
+**X**, **Y**, **Z**, **J** son nombres enters.
 
 
 
