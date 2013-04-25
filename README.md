@@ -21,7 +21,7 @@ el projecte consta de tres clases matematiques:
     Aquesta clase ens permet realizar cualqsevol tipus d'operació matematica (suma,resta,divisio,multiplicacio,...) entre matrius.
 Et permer resoldre matrius mitjançant el metode de Gauss.
 
-    A l'hora de definir una matriu ho farem seguint el seguent format:
+    A l'hora de definir una matriu `Matrix` ho farem seguint el seguent format:
 
         public Matrix(int M, int N) {
             this.M = M;
@@ -31,10 +31,10 @@ Et permer resoldre matrius mitjançant el metode de Gauss.
 
 Exemples de matrius:
 
-|  .| N1| N2|
-| --|:-:|:-:|
-| M1| X | Z |
-| M2| Y | J |
+   |  N1 |  N2 |
+---|:---:|:---:|
+ M1|  X  |  Z  |
+ M2|  Y  |  J  |
 
 **X**, **Y**, **Z**, **J** son nombres enters.
 
