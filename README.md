@@ -30,7 +30,7 @@ A l'hora de definir una matriu ho farem seguint el seguent format:
 
 Exemples de matrius:
 
-|   | N1| N2|
+|  .| N1| N2|
 | --|:-:|:-:|
 | M1| X | Z |
 | M2| Y | J |
